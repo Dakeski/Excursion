@@ -23,10 +23,11 @@ p {
 }
 body {
   background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
-.vid1 {
-  position: relative;
-}
+
 .cta {
   color: aquamarine;
 }
