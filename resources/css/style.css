@@ -24,6 +24,12 @@ p {
 body {
   background-color: black;
 }
+.vid1 {
+  position: relative;
+}
 .cta {
   color: aquamarine;
+}
+.footer p {
+  text-align: right;
 }
